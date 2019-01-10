@@ -2,7 +2,7 @@
   "name": "selfcampweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://selfcamp-jm.github.io/selfcampjmweb/" .
+  "homepage": "https://selfcamp-jm.github.io/selfcampjmweb/",
   "dependencies": {
     "gh-pages": "^1.1.0"
     "react": "^16.7.0",
